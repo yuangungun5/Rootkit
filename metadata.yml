@@ -1,0 +1,12 @@
+---
+:id: 34695171
+:submitters:
+- :name: Qingyang Xu
+  :email: qingyang.xu513@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-15 02:26:38.837545000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-14 19:26:38.837545000 Z
+:status: processed
+:score: 95.0
